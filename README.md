@@ -1,2 +1,2 @@
-# 30DaysofDataScience
+# DataScience
  
